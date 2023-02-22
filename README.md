@@ -1,19 +1,15 @@
-# Register_University
+# Register
 ------------------------------------------------
-
-### **MEMBER**
-#### Ploynapat Bunsena | Student_ID : 6310610966 
 #### Pavisa Sirirojvorakul | Student_ID : 6310620064
-
 ---------------------------------------------------
 
 ### ขั้นตอนการเปิดหน้าเว็บไซต์ 
 #####  1.เปิดหน้าโค้ด
-#####  2.source ../.venv/Scripts/activate
-#####  3.python manage.py runserver
+#####  2.python3 -m venv .venv
+#####  3.source ../.venv/Scripts/activate
+#####  4.python manage.py runserver
 
 ------------------------------------------------
-
 ### Admin
 ##### Click This *[Link](http://127.0.0.1:8000/admin).*
 #### username : admin
@@ -25,7 +21,6 @@
 - เปิด/ปิดการขอโควต้าวิชาเรียน
 - ค้นหารายวิชาที่เปิดให้ลงทะเบียนได้
 - ดูข้อมูลของนักเรียนที่ลงเรียนในแต่ละวิชา
-
 ------------------------------------------------
 
 ### Users
