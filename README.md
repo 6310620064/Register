@@ -8,7 +8,8 @@
 #####  1.เปิดหน้าโค้ด
 #####  2.python3 -m venv .venv
 #####  3.source ../.venv/Scripts/activate
-#####  4.python manage.py runserver
+#####  4.pip install django
+#####  5.python manage.py runserver
 
 ------------------------------------------------
 ### Admin
